@@ -56,4 +56,3 @@ jobs:
       uses: cfy9/trivy-action@v0.0.2
       with:
         image_name: limanalhassan/dareypbl:toolingv4
-        format: "json"
